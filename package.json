@@ -1,6 +1,6 @@
 {
   "name": "linkbase",
-  "homepage": "/",
+  "homepage": "https://linkbase.ca/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
