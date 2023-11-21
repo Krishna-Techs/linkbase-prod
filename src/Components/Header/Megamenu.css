@@ -1,0 +1,142 @@
+.group-child {
+          position: absolute;
+          top: 0;
+          left: 0;
+          border-radius: var(--br-5xs);
+          background-color: var(--color-tomato);
+          width: 37.58px;
+          height: 37.58px;
+        }
+        .bxs-pencil-1-icon {
+          position: absolute;
+          top: 9.65px;
+          left: 9.65px;
+          width: 18.79px;
+          height: 18.79px;
+          overflow: hidden;
+        }
+        .rectangle-parent {
+          position: relative;
+          width: 37.58px;
+          height: 37.58px;
+          display: none;
+        }
+        .enhance-guest-convenience {
+          position: relative;
+          line-height: 27px;
+          text-transform: uppercase;
+        }
+        .enhance-guest-convenience h6{
+          color: black;
+          font-weight: bold;
+          font-size: 20px;
+        }
+        .combat-frauds-digital h6{
+          color: black;
+          font-weight: bold;
+          font-size: 20px;
+        }
+        .group-parent {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          justify-content: flex-start;
+          gap: var(--gap-xs);
+        }
+        .contact-less-check {
+          position: relative;
+          line-height: 27px;
+          padding: 5px;
+          text-transform: uppercase;
+          cursor: pointer;
+        }
+        .contact-less-check a{
+          color: #001659;
+        }
+        .contact-less-check:hover{
+          background-color: #F5F8FF;
+          width: 100%;
+        }
+        .contact-less-check a:hover{
+          color: #8B3B85;
+          border-bottom: 1px solid #8B3B85;
+        }
+        .contact-less-check-in-parent {
+          gap: var(--gap-7xs);
+          opacity: 0.8;
+        }
+        .contact-less-check-in-parent,
+        .frame-group,
+        .frame-wrapper {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: flex-start;
+        }
+        .frame-wrapper {
+          font-size: var(--font-size-base);
+          color: var(--color-midnightblue);
+          font-family: var(--font-gilroy-medium);
+        }
+        .frame-group {
+          flex: 1;
+          gap: var(--gap-base);
+        }
+        .combat-frauds-digital {
+          flex: 1;
+          position: relative;
+          line-height: 27px;
+          text-transform: uppercase;
+        }
+        .frame-parent,
+        .group-parent1 {
+          align-self: stretch;
+          display: flex;
+          flex-direction: row;
+          align-items: flex-start;
+          justify-content: flex-start;
+          gap: var(--gap-xs);
+        }
+        .frame-parent {
+          gap: var(--gap-3xs);
+        }
+        .rectangle-parent2 {
+          position: relative;
+          width: 37.58px;
+          height: 37.58px;
+        }
+        .frame-wrapper4 {
+          padding: 0 var(--padding-31xl);
+          font-size: var(--font-size-base);
+          color: var(--color-gray);
+          font-family: var(--font-gilroy-medium);
+        }
+        .frame-parent5,
+        .frame-wrapper4,
+        .mega-menu {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: flex-start;
+        }
+        .frame-parent5 {
+          flex: 1;
+          gap: var(--gap-7xs);
+          opacity: 0;
+        }
+        .mega-menu {
+          position: relative;
+          background-color: #fff;
+          width: 100%;
+          overflow: hidden;
+          padding: var(--padding-31xl) 100px;
+          box-sizing: border-box;
+          gap: 52px;
+          text-align: left;
+          font-size: var(--font-size-lg);
+          color: var(--color-black);
+          font-family: var(--font-gilroy-semibold);
+        }
+.contact-less-check a{
+  font-size: 18px;
+}
