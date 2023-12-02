@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d305c187.css",
-    "main.js": "/static/js/main.5c19911b.js",
+    "main.js": "/static/js/main.e5dc8535.js",
     "static/js/787.40ac02a9.chunk.js": "/static/js/787.40ac02a9.chunk.js",
     "static/media/Linkbase_supportedproducts.pdf": "/static/media/Linkbase_supportedproducts.8177268ffd962532c502.pdf",
     "static/media/29.png": "/static/media/29.a1de51def9e4e7975411.png",
@@ -16,6 +16,7 @@
     "static/media/checkOuts.png": "/static/media/checkOuts.05b512e8496a9b2ef2d2.png",
     "static/media/guideBooks.png": "/static/media/guideBooks.0b71b82956587f37b7e9.png",
     "static/media/saas7.png": "/static/media/saas7.0fd1bcbf6098eaf3b4dd.png",
+    "static/media/32.png": "/static/media/32.281d68c2ae153d211fa0.png",
     "static/media/saas10.png": "/static/media/saas10.d8e0d041d6a54c293358.png",
     "static/media/checkIn.png": "/static/media/checkIn.68b6fab5f5005c0db039.png",
     "static/media/saas11.png": "/static/media/saas11.994e4ee3d042be83fa25.png",
@@ -28,7 +29,9 @@
     "static/media/combatFrauds.png": "/static/media/combatFrauds.ee4ef2632de81f89108c.png",
     "static/media/3.png": "/static/media/3.3d10ae319b868b06c762.png",
     "static/media/saas1.png": "/static/media/saas1.153592c7f9019b9a5f59.png",
+    "static/media/30.png": "/static/media/30.824af27c873a8753ab4f.png",
     "static/media/2.png": "/static/media/2.c54d20dc52be67db7f8c.png",
+    "static/media/33.png": "/static/media/33.da5e65dcebe132685a96.png",
     "static/media/7.png": "/static/media/7.c6bfd5cc67daa1e0d15d.png",
     "static/media/13.png": "/static/media/13.e9d50d831b03a02b076c.png",
     "static/media/Streamline.png": "/static/media/Streamline.d37606510ad525172af9.png",
@@ -51,11 +54,13 @@
     "static/media/saas3.png": "/static/media/saas3.8504e1cb312acfe89714.png",
     "static/media/21.png": "/static/media/21.e868d1dc7c4452d2453e.png",
     "static/media/25.png": "/static/media/25.ef499e1253d71813a42c.png",
+    "static/media/34.png": "/static/media/34.6bf7e47808d0edd07f06.png",
     "static/media/26.png": "/static/media/26.8cec35cd0c5ce6f33b27.png",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.768d760dd622e4543056.eot",
     "static/media/saas4.png": "/static/media/saas4.7ebf97d9e6052a596701.png",
     "static/media/saas2.png": "/static/media/saas2.cee94d273c91fc98186c.png",
     "static/media/23.png": "/static/media/23.a2d1cd1a5891f8702fd7.png",
+    "static/media/31.png": "/static/media/31.adbb23b8a37cd04ee528.png",
     "static/media/saas6.png": "/static/media/saas6.19a0ec0c6763b42c9832.png",
     "static/media/integration.png": "/static/media/integration.92baf6760c18c12b71a8.png",
     "static/media/checkInSection4.png": "/static/media/checkInSection4.692e9ee40e8e0e6c5002.png",
@@ -79,17 +84,12 @@
     "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.dc593d07f678adfe75ee.eot",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.7d49f26e261fa35ed52a.woff2",
     "static/media/28.png": "/static/media/28.4ee5484991bad584932b.png",
-    "static/media/32.png": "/static/media/32.ffb2d774a2df55997282.png",
-    "static/media/30.png": "/static/media/30.1d75c66262bc6bb6dbee.png",
     "static/media/integrations_img3.png": "/static/media/integrations_img3.481c752d1b88af37ccde.png",
     "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.b659903e2b94bcc04310.woff",
-    "static/media/33.png": "/static/media/33.4814fe101f78f6672098.png",
     "static/media/team5.jpeg": "/static/media/team5.b635ef5bab993d528188.jpeg",
     "static/media/upsells.png": "/static/media/upsells.3c8966e30d01fd10d1cb.png",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.43349106a076e5ac6d72.woff2",
-    "static/media/34.png": "/static/media/34.bf02ee99bd41ad120706.png",
     "static/media/17.png": "/static/media/17.eba50e5b34b021096ed8.png",
-    "static/media/31.png": "/static/media/31.73f754f4419ff2dabf5d.png",
     "static/media/Press2.webp": "/static/media/Press2.dfda73d4d41b877d1cac.webp",
     "static/media/checkIn1.png": "/static/media/checkIn1.61bffd6cbe0a46789112.png",
     "static/media/checkouts1.png": "/static/media/checkouts1.aa0f3ccbfef25a376ac9.png",
@@ -103,11 +103,11 @@
     "static/media/flaticon.woff2": "/static/media/flaticon.63ea9d872774f93df405.woff2",
     "index.html": "/index.html",
     "main.d305c187.css.map": "/static/css/main.d305c187.css.map",
-    "main.5c19911b.js.map": "/static/js/main.5c19911b.js.map",
+    "main.e5dc8535.js.map": "/static/js/main.e5dc8535.js.map",
     "787.40ac02a9.chunk.js.map": "/static/js/787.40ac02a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d305c187.css",
-    "static/js/main.5c19911b.js"
+    "static/js/main.e5dc8535.js"
   ]
 }
